@@ -1,0 +1,68 @@
+[
+  {
+    "Scene": 1,
+    "Key Elements": {
+      "Subject/Action": "A young girl walking up a grassy hill at dawn",
+      "Camera Work": "Wide shot slowly panning upward",
+      "Environment": "Quiet countryside with morning mist and distant trees",
+      "Lighting/Color": "Soft pastel tones, early morning light",
+      "Time Flow": "Real-time"
+    },
+    "prompt": "A young girl walks up a grassy hill at dawn, surrounded by morning mist and distant trees. The camera slowly pans upward in a wide shot, capturing the peaceful countryside. The lighting is soft and pastel, evoking a calm early morning atmosphere."
+  },
+  {
+    "Scene": 2,
+    "Key Elements": {
+      "Subject/Action": "The girl reaches the top and sits down facing the sunrise",
+      "Camera Work": "Over-the-shoulder shot, slight zoom-in",
+      "Environment": "Hilltop with a clear view of the horizon",
+      "Lighting/Color": "Warm golden hues from the rising sun",
+      "Time Flow": "Real-time"
+    },
+    "prompt": "The girl reaches the top of the hill and sits down, gazing at the sunrise. The camera captures her from behind in an over-the-shoulder shot, slowly zooming in. The scene is bathed in warm golden hues from the rising sun."
+  },
+  {
+    "Scene": 3,
+    "Key Elements": {
+      "Subject/Action": "Flashback of the girl and her grandfather holding hands",
+      "Camera Work": "Soft focus, handheld camera feel",
+      "Environment": "Same hilltop, but in the past with brighter colors",
+      "Lighting/Color": "Bright and nostalgic, slightly overexposed",
+      "Time Flow": "Slow motion"
+    },
+    "prompt": "A flashback shows the girl and her grandfather holding hands on the same hilltop. The camera has a soft focus and handheld feel, evoking a warm memory. The colors are brighter and slightly overexposed, with slow motion enhancing the nostalgic mood."
+  },
+  {
+    "Scene": 4,
+    "Key Elements": {
+      "Subject/Action": "Close-up of the girl’s face, eyes reflecting the sunrise",
+      "Camera Work": "Extreme close-up, steady shot",
+      "Environment": "Hilltop, background blurred",
+      "Lighting/Color": "Golden light reflecting in her eyes",
+      "Time Flow": "Real-time"
+    },
+    "prompt": "An extreme close-up of the girl's face shows her eyes reflecting the golden sunrise. The background is softly blurred, and the camera remains steady, emphasizing her emotional connection to the moment."
+  },
+  {
+    "Scene": 5,
+    "Key Elements": {
+      "Subject/Action": "The wind gently moves her hair as she smiles",
+      "Camera Work": "Medium shot with slow dolly movement",
+      "Environment": "Open sky and sunlight behind her",
+      "Lighting/Color": "Bright and hopeful tones",
+      "Time Flow": "Slight slow motion"
+    },
+    "prompt": "The wind gently moves the girl's hair as she smiles softly. A medium shot with a slow dolly movement captures the serene moment. The open sky and sunlight behind her create a bright and hopeful atmosphere."
+  },
+  {
+    "Scene": 6,
+    "Key Elements": {
+      "Subject/Action": "Voice of her grandfather echoes: “Do your best today.”",
+      "Camera Work": "Wide shot pulling back slowly",
+      "Environment": "Girl alone on the hilltop, sun fully risen",
+      "Lighting/Color": "Full daylight, clear and vibrant",
+      "Time Flow": "Real-time"
+    },
+    "prompt": "As the sun fully rises, a wide shot slowly pulls back to show the girl alone on the hilltop. The voice of her grandfather echoes: “Do your best today.” The lighting is clear and vibrant, symbolizing a new beginning."
+  }
+]
