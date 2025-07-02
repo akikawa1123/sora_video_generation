@@ -35,8 +35,8 @@ def create_video(prompt, video_dir):
             print(f"\n--- Video {i+1}/{len(prompt)}: Attempt {attempt} ---")
             body = {
                 "prompt": f"""{prompt[i]}""",
-                "width": 1080,
-                "height": 1080,
+                "width": "720p",
+                "height": "720p",
                 "n_seconds": 5,
                 "model": "sora"
             }
